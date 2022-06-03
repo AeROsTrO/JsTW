@@ -2,7 +2,7 @@
 body {
   font-family: "Raleway", sans-serif;
   height: 100vh;
-  background: #333 url("/image.jpg");
+  background: #333 url("https://AeROsTrO.github.io/JsTW/image.jpg");
   color: #ccc;
   overflow: hidden;
 }
